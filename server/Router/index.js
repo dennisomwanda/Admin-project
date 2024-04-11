@@ -7,7 +7,7 @@ route.get('/sites', (req, res) =>{
     .then(response =>{
         res.status(200).json({
             message : "Sites fetched successfully",
-            constractor : response
+            contractor : response
         })
     })
     .catch(err => console.log(err));
