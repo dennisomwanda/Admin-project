@@ -1,0 +1,52 @@
+[
+        {
+            "_id": "6617c644094bb21d0d261046",
+            "Tower_ID": "16916",
+            "Site_Name": "16916_RV_WU1864_Eldoret_Baharini_OUTD_MGF "
+        },
+        {
+            "_id": "6617c644094bb21d0d261047",
+            "Tower_ID": "16313",
+            "Site_Name": "16313_RV_WU1883_Eldoret_Kamukunji_Primary_OUTD_MGF "
+        },
+        {
+            "_id": "6617c644094bb21d0d261048",
+            "Tower_ID": "15574",
+            "Site_Name": "15574_RV_WU1840_Eldoret_Juakali_GenOFF_MGF_OUTD "
+        },
+        {
+            "_id": "6617c644094bb21d0d261049",
+            "Tower_ID": "12787",
+            "Site_Name": "12787_RV_WU0835_Eldoret_Kahoya_Estate_WMX_OUTD_MGF "
+        },
+        {
+            "_id": "6617c644094bb21d0d26104a",
+            "Tower_ID": "12773",
+            "Site_Name": "12773_RV_WU0820_Eldoret_Kago_Street_OUTD_MGF "
+        },
+        {
+            "_id": "6617c644094bb21d0d26104b",
+            "Tower_ID": "12772",
+            "Site_Name": "12772_RV_WU0819_Eldoret_Railway_Est_OUTD_MGF "
+        },
+        {
+            "_id": "6617c644094bb21d0d26104c",
+            "Tower_ID": "17243",
+            "Site_Name": "17243_RV_WU1909_Kitale_Rafiki_MGF_OUTD "
+        },
+        {
+            "_id": "6617c644094bb21d0d26104d",
+            "Tower_ID": "13005",
+            "Site_Name": "13005_RV_WU0876_Kipsaina_OUTD_MGF "
+        },
+        {
+            "_id": "6617c644094bb21d0d26104e",
+            "Tower_ID": "18198",
+            "Site_Name": "18198_RV_WU1891_Ngeria_MGF_OUTD "
+        },
+        {
+            "_id": "6617c644094bb21d0d26104f",
+            "Tower_ID": "15523",
+            "Site_Name": "15523_RV_WU1138_Kitale_Cherangany_OUTD_MGF "
+        }
+    ]
